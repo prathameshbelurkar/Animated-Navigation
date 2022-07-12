@@ -1,5 +1,5 @@
 ## Animated-Navigation
 
-### Animated Navigation using JavaScript ES6 & CSS. Hope you like it ☺️
+### Animated Navigation using JavaScript ES6 & CSS. Have a Visit ☺️
 
-[visit](https://prathameshbelurkar.github.io/Animated-Navigation/)
+[Visit](https://prathameshbelurkar.github.io/Animated-Navigation/)
